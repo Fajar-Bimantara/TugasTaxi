@@ -1,0 +1,7 @@
+E:\Fajar\Kuliah\20.11.3307\TugasTaxi\ObjectTaxi\ObjectTaxi\obj\Debug\ObjectTaxi.csprojAssemblyReference.cache
+E:\Fajar\Kuliah\20.11.3307\TugasTaxi\ObjectTaxi\ObjectTaxi\obj\Debug\ObjectTaxi.csproj.CoreCompileInputs.cache
+E:\Fajar\Kuliah\20.11.3307\TugasTaxi\ObjectTaxi\ObjectTaxi\bin\Debug\ObjectTaxi.exe.config
+E:\Fajar\Kuliah\20.11.3307\TugasTaxi\ObjectTaxi\ObjectTaxi\bin\Debug\ObjectTaxi.exe
+E:\Fajar\Kuliah\20.11.3307\TugasTaxi\ObjectTaxi\ObjectTaxi\bin\Debug\ObjectTaxi.pdb
+E:\Fajar\Kuliah\20.11.3307\TugasTaxi\ObjectTaxi\ObjectTaxi\obj\Debug\ObjectTaxi.exe
+E:\Fajar\Kuliah\20.11.3307\TugasTaxi\ObjectTaxi\ObjectTaxi\obj\Debug\ObjectTaxi.pdb
